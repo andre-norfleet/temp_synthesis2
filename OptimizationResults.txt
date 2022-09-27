@@ -1,0 +1,792 @@
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1450.979200 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.000439 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 1300.041034 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.000717 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 1198.116102 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.000959 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Simulation time for iteration 4: 1222.491110 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.000959 
+err = Inf 
+Completed  40  % ... 
+iteration: 5 
+Simulation time for iteration 5: 1246.965045 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.000959 
+err = Inf 
+Completed  50  % ... 
+iteration: 6 
+Simulation time for iteration 6: 1351.266881 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.000985 
+err = Inf 
+Completed  60  % ... 
+iteration: 7 
+Simulation time for iteration 7: 1401.481917 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.001055 
+err = Inf 
+Completed  70  % ... 
+iteration: 8 
+Simulation time for iteration 8: 1318.473531 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.001055 
+err = Inf 
+Completed  80  % ... 
+iteration: 9 
+Simulation time for iteration 9: 1341.073572 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.001055 
+err = Inf 
+Completed  90  % ... 
+iteration: 10 
+Simulation time for iteration 10: 1315.025374 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Optimal score until now: 0.001055 
+err = Inf 
+Final optimal parameters: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Final optimal score: 0.001055 
+Completed  0  % ... 
+iteration: 1 
+Completed  0  % ... 
+iteration: 1 
+Completed  0  % ... 
+iteration: 1 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1479.129974 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.002194 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 2086.184517 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000840 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 1420.007026 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000784 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Simulation time for iteration 4: 1951.982682 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000784 
+err = Inf 
+Completed  40  % ... 
+iteration: 5 
+Simulation time for iteration 5: 1418.596809 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000784 
+err = Inf 
+Completed  50  % ... 
+iteration: 6 
+Simulation time for iteration 6: 1394.094788 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000278 
+err = Inf 
+Completed  60  % ... 
+iteration: 7 
+Simulation time for iteration 7: 1391.282995 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000278 
+err = Inf 
+Completed  70  % ... 
+iteration: 8 
+Simulation time for iteration 8: 1394.679193 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000278 
+err = Inf 
+Completed  80  % ... 
+iteration: 9 
+Simulation time for iteration 9: 1374.473872 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000278 
+err = Inf 
+Completed  90  % ... 
+iteration: 10 
+Simulation time for iteration 10: 1373.691363 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000278 
+err = Inf 
+Final optimal parameters: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Final optimal score: -0.000278 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1118.977394 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 1039.099635 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 1172.165684 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Simulation time for iteration 4: 1017.984479 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Completed  40  % ... 
+iteration: 5 
+Simulation time for iteration 5: 1051.526240 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Completed  50  % ... 
+iteration: 6 
+Simulation time for iteration 6: 1045.524713 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Completed  60  % ... 
+iteration: 7 
+Simulation time for iteration 7: 1104.374353 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Completed  70  % ... 
+iteration: 8 
+Simulation time for iteration 8: 1027.829612 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Completed  80  % ... 
+iteration: 9 
+Simulation time for iteration 9: 1002.302467 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Completed  90  % ... 
+iteration: 10 
+Simulation time for iteration 10: 1027.383507 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.001098 
+err = Inf 
+Final optimal parameters: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Final optimal score: 0.001098 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1670.623975 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.001558 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 1558.155783 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.001558 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 1564.882979 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000469 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1124.075249 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.001149 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 987.868865 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.001149 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 944.255896 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000045 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 842.420481 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000008 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 845.550746 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: 0.000004 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Completed  0  % ... 
+iteration: 1 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 958.296284 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000090 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 844.828382 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000069 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 844.093754 
+Optimal parameters until now: 
+Parameter Dm_K = 0 
+Parameter Dm_Na = 0 
+Parameter Dm_Cl = 0 
+Parameter gap junction surface area = 0 
+Optimal score until now: -0.000069 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Completed  0  % ... 
+iteration: 1 
+Completed  0  % ... 
+iteration: 1 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 946.633332 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000001 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1078.317745 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000002 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 926.766695 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000003 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1831.871913 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000020 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 1671.814948 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000014 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 1824.485995 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000011 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Simulation time for iteration 4: 1744.223903 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000011 
+err = Inf 
+Completed  40  % ... 
+iteration: 5 
+Simulation time for iteration 5: 1682.540463 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000002 
+err = Inf 
+Completed  50  % ... 
+iteration: 6 
+Simulation time for iteration 6: 1690.178100 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000002 
+err = Inf 
+Completed  60  % ... 
+iteration: 7 
+Simulation time for iteration 7: 1735.908741 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000001 
+err = Inf 
+Completed  70  % ... 
+iteration: 8 
+Simulation time for iteration 8: 1458.802372 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000001 
+err = Inf 
+Completed  80  % ... 
+iteration: 9 
+Simulation time for iteration 9: 1428.451491 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000001 
+err = Inf 
+Completed  90  % ... 
+iteration: 10 
+Simulation time for iteration 10: 1429.952747 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000001 
+err = Inf 
+Final optimal parameters: 
+Parameter gj_sa = 0 
+Final optimal score: 0.000001 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 949.292188 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000008 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 991.395948 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000004 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1093.958657 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000003 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 822.753917 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000003 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 838.879412 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000003 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Simulation time for iteration 4: 727.372953 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000003 
+err = Inf 
+Completed  40  % ... 
+iteration: 5 
+Simulation time for iteration 5: 883.949046 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000003 
+err = Inf 
+Completed  50  % ... 
+iteration: 6 
+Simulation time for iteration 6: 721.234494 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000003 
+err = Inf 
+Completed  60  % ... 
+iteration: 7 
+Simulation time for iteration 7: 822.485415 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000003 
+err = Inf 
+Completed  70  % ... 
+iteration: 8 
+Simulation time for iteration 8: 936.913795 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000001 
+err = Inf 
+Completed  80  % ... 
+iteration: 9 
+Simulation time for iteration 9: 582.333752 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000001 
+err = Inf 
+Completed  90  % ... 
+iteration: 10 
+Simulation time for iteration 10: 804.761012 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: -0.000001 
+err = Inf 
+Final optimal parameters: 
+Parameter gj_sa = 0 
+Final optimal score: -0.000001 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1363.824450 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000469 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 1204.135019 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000469 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 1301.462887 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000469 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Simulation time for iteration 4: 1211.521281 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000469 
+err = Inf 
+Completed  40  % ... 
+iteration: 5 
+Simulation time for iteration 5: 1254.428379 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000469 
+err = Inf 
+Completed  50  % ... 
+iteration: 6 
+Simulation time for iteration 6: 1292.633508 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000753 
+err = Inf 
+Completed  60  % ... 
+iteration: 7 
+Simulation time for iteration 7: 1263.701402 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000753 
+err = Inf 
+Completed  70  % ... 
+iteration: 8 
+Simulation time for iteration 8: 1300.679248 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000753 
+err = Inf 
+Completed  80  % ... 
+iteration: 9 
+Simulation time for iteration 9: 1272.782703 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000753 
+err = Inf 
+Completed  90  % ... 
+iteration: 10 
+Simulation time for iteration 10: 1278.640645 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000753 
+err = Inf 
+Final optimal parameters: 
+Parameter gj_sa = 0 
+Final optimal score: 0.000753 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 992.541986 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000205 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1142.464212 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000438 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Completed  0  % ... 
+iteration: 1 
+Simulation time for iteration 1: 1186.315083 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000599 
+err = Inf 
+Completed  10  % ... 
+iteration: 2 
+Simulation time for iteration 2: 901.334421 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000599 
+err = Inf 
+Completed  20  % ... 
+iteration: 3 
+Simulation time for iteration 3: 910.409922 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000599 
+err = Inf 
+Completed  30  % ... 
+iteration: 4 
+Simulation time for iteration 4: 879.093134 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000599 
+err = Inf 
+Completed  40  % ... 
+iteration: 5 
+Simulation time for iteration 5: 883.483023 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000599 
+err = Inf 
+Completed  50  % ... 
+iteration: 6 
+Simulation time for iteration 6: 947.345807 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000599 
+err = Inf 
+Completed  60  % ... 
+iteration: 7 
+Simulation time for iteration 7: 919.965110 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000599 
+err = Inf 
+Completed  70  % ... 
+iteration: 8 
+Simulation time for iteration 8: 908.747038 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000651 
+err = Inf 
+Completed  80  % ... 
+iteration: 9 
+Simulation time for iteration 9: 924.863016 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000651 
+err = Inf 
+Completed  90  % ... 
+iteration: 10 
+Simulation time for iteration 10: 894.955139 
+Optimal parameters until now: 
+Parameter gj_sa = 0 
+Optimal score until now: 0.000651 
+err = Inf 
+Final optimal parameters: 
+Parameter gj_sa = 0 
+Final optimal score: 0.000651 
